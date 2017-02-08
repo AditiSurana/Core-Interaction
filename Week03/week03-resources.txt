@@ -1,0 +1,8 @@
+Relevant to many of you from today:
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/position
+
+For anyone who's interested in diving deeper into the terminal (well worth the effort):
+http://jilles.me/badassify-your-terminal-and-shell/
+
+
