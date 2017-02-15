@@ -1,0 +1,12 @@
+body, html {
+  margin: 0px;
+}
+.wrapper {
+  /* fix margin collapsing: */
+  /* position: absolute; */
+  background: rgb(100,220,255);
+}
+
+.basic {
+  /* background: rgba(255,255,200,0.5); */
+}
