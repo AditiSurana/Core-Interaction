@@ -1,12 +1,34 @@
-body, html {
-  margin: 0px;
+body,
+html {
+    margin: 0px;
+    background: rgb(100,220,255);
+    /* teal */
 }
+
 .wrapper {
-  /* fix margin collapsing: */
-  /* position: absolute; */
-  background: rgb(100,220,255);
+/*	try uncommenting this next chunk to see the
+"absolutely relative" effect: */
+
+/*    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;*/
+    background: rgba(50, 200, 50, 0.3);
+    /* green */
 }
 
 .basic {
-  /* background: rgba(255,255,200,0.5); */
+    background: rgba(255, 255, 100, 0.5);
+    /* yellow */
+    position: relative;
+    width: 50%;
+    height: 30%;
+}
+
+.special {
+	position: relative;
+	height: 50%;
+	/* each div is 50% the height of .wrapper, which is
+	set to be 100% of the screen */
 }
