@@ -5,9 +5,17 @@ html {
     /* teal */
 }
 
+.everything {
+	margin-top: 80px;
+	position: relative;
+	background: rgba(255,255,255, 0.5);
+	/* white */
+}
+
 .wrapper {
-/*	try uncommenting this next chunk to see the
-"absolutely relative" effect: */
+/*	try uncommenting this next chunk to see what 
+"absolute" does with respect to its parent 
+-- this is the "absolutely relative" idea */
 
 /*    position: absolute;
     width: 100%;
@@ -21,14 +29,12 @@ html {
 .basic {
     background: rgba(255, 255, 100, 0.5);
     /* yellow */
-    position: relative;
     width: 50%;
     height: 30%;
 }
 
 .special {
-	position: relative;
 	height: 50%;
 	/* each div is 50% the height of .wrapper, which is
-	set to be 100% of the screen */
+	set to be 100% of its parent, ".everything" */
 }
