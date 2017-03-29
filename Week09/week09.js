@@ -35,7 +35,13 @@ function toggle_state(theevent) {
 	else this.classList.add("active");
 }
 
-function 
+function addhover(e) {
+	this.classList.add("hovered");
+}
+
+function removehover(e) {
+	this.classList.remove("hovered");
+}
 
 
 
