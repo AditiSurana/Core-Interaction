@@ -1,0 +1,22 @@
+.box {
+	position: relative;
+	width: 100px;
+	height: 100px;
+	background: lightblue;
+	float: left;
+	margin: 10px;
+	border: 2px solid lightgreen;
+
+	/*transition: border-color 3s, background-color 0.5s, margin-left 1s;*/
+
+	transition: all 0.5s;
+}
+
+.hovered {
+	border-color: black;
+}
+
+.active {
+	margin-left: 100px;
+	background: yellow;
+}
