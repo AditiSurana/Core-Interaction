@@ -1,0 +1,752 @@
+[
+  [
+    {
+      "artist": "The Beatles",
+      "albumtitle": "Abbey Road",
+      "year": "1969",
+      "tracks": {
+        "side": "1",
+        "tracknum": "1",
+        "tracktitle": "Come Together",
+        "people": [
+          "John Lennon"
+        ],
+        "duration": "4:20\r"
+      }
+    },
+    {
+      "artist": "The Beatles",
+      "albumtitle": "Abbey Road",
+      "year": "1969",
+      "tracks": {
+        "side": "1",
+        "tracknum": "2",
+        "tracktitle": "Something (George Harrison)",
+        "people": [
+          "George Harrison"
+        ],
+        "duration": "3:03\r"
+      }
+    },
+    {
+      "artist": "The Beatles",
+      "albumtitle": "Abbey Road",
+      "year": "1969",
+      "tracks": {
+        "side": "1",
+        "tracknum": "3",
+        "tracktitle": "Maxwell's Silver Hammer",
+        "people": [
+          "Paul McCartney"
+        ],
+        "duration": "3:27\r"
+      }
+    },
+    {
+      "artist": "The Beatles",
+      "albumtitle": "Abbey Road",
+      "year": "1969",
+      "tracks": {
+        "side": "1",
+        "tracknum": "4",
+        "tracktitle": "Oh! Darling",
+        "people": [
+          "Paul McCartney"
+        ],
+        "duration": "3:26\r"
+      }
+    },
+    {
+      "artist": "The Beatles",
+      "albumtitle": "Abbey Road",
+      "year": "1969",
+      "tracks": {
+        "side": "1",
+        "tracknum": "5",
+        "tracktitle": "Octopus's Garden (Richard Starkey)",
+        "people": [
+          "Ringo Starr"
+        ],
+        "duration": "2:51\r"
+      }
+    },
+    {
+      "artist": "The Beatles",
+      "albumtitle": "Abbey Road",
+      "year": "1969",
+      "tracks": {
+        "side": "1",
+        "tracknum": "6",
+        "tracktitle": "I Want You (She's So Heavy)",
+        "people": [
+          "John Lennon"
+        ],
+        "duration": "7:47\r"
+      }
+    },
+    {
+      "artist": "The Beatles",
+      "albumtitle": "Abbey Road",
+      "year": "1969",
+      "tracks": {
+        "side": "2",
+        "tracknum": "1",
+        "tracktitle": "Here Comes the Sun (George Harrison)",
+        "people": [
+          "George Harrison"
+        ],
+        "duration": "3:05\r"
+      }
+    },
+    {
+      "artist": "The Beatles",
+      "albumtitle": "Abbey Road",
+      "year": "1969",
+      "tracks": {
+        "side": "2",
+        "tracknum": "2",
+        "tracktitle": "Because",
+        "people": [
+          "John Lennon",
+          "Paul McCartney",
+          "George Harrison"
+        ],
+        "duration": "2:45\r"
+      }
+    },
+    {
+      "artist": "The Beatles",
+      "albumtitle": "Abbey Road",
+      "year": "1969",
+      "tracks": {
+        "side": "2",
+        "tracknum": "3",
+        "tracktitle": "You Never Give Me Your Money",
+        "people": [
+          "Paul McCartney"
+        ],
+        "duration": "4:02\r"
+      }
+    },
+    {
+      "artist": "The Beatles",
+      "albumtitle": "Abbey Road",
+      "year": "1969",
+      "tracks": {
+        "side": "2",
+        "tracknum": "4",
+        "tracktitle": "Sun King",
+        "people": [
+          "John Lennon",
+          "Paul McCartney",
+          "George Harrison"
+        ],
+        "duration": "2:26\r"
+      }
+    },
+    {
+      "artist": "The Beatles",
+      "albumtitle": "Abbey Road",
+      "year": "1969",
+      "tracks": {
+        "side": "2",
+        "tracknum": "5",
+        "tracktitle": "Mean Mr. Mustard",
+        "people": [
+          "John Lennon"
+        ],
+        "duration": "1:06\r"
+      }
+    },
+    {
+      "artist": "The Beatles",
+      "albumtitle": "Abbey Road",
+      "year": "1969",
+      "tracks": {
+        "side": "2",
+        "tracknum": "6",
+        "tracktitle": "Polythene Pam",
+        "people": [
+          "John Lennon"
+        ],
+        "duration": "1:12\r"
+      }
+    },
+    {
+      "artist": "The Beatles",
+      "albumtitle": "Abbey Road",
+      "year": "1969",
+      "tracks": {
+        "side": "2",
+        "tracknum": "7",
+        "tracktitle": "She Came in Through the Bathroom Window",
+        "people": [
+          "Paul McCartney"
+        ],
+        "duration": "1:57\r"
+      }
+    },
+    {
+      "artist": "The Beatles",
+      "albumtitle": "Abbey Road",
+      "year": "1969",
+      "tracks": {
+        "side": "2",
+        "tracknum": "8",
+        "tracktitle": "Golden Slumbers",
+        "people": [
+          "Paul McCartney"
+        ],
+        "duration": "1:31\r"
+      }
+    },
+    {
+      "artist": "The Beatles",
+      "albumtitle": "Abbey Road",
+      "year": "1969",
+      "tracks": {
+        "side": "2",
+        "tracknum": "9",
+        "tracktitle": "Carry That Weight",
+        "people": [
+          "Paul McCartney",
+          "John Lennon",
+          "George Harrison",
+          "Ringo Starr"
+        ],
+        "duration": "1:36\r"
+      }
+    },
+    {
+      "artist": "The Beatles",
+      "albumtitle": "Abbey Road",
+      "year": "1969",
+      "tracks": {
+        "side": "2",
+        "tracknum": "10",
+        "tracktitle": "The End",
+        "people": [
+          "Paul McCartney"
+        ],
+        "duration": "2:05\r"
+      }
+    },
+    {
+      "artist": "The Beatles",
+      "albumtitle": "Abbey Road",
+      "year": "1969",
+      "tracks": {
+        "side": "2",
+        "tracknum": "11",
+        "tracktitle": "Her Majesty",
+        "people": [
+          "Paul McCartney"
+        ],
+        "duration": "0:23"
+      }
+    }
+  ],
+  [
+    {
+      "artist": "The Shins",
+      "albumtitle": "Chutes Too Narrow",
+      "year": "2003",
+      "tracks": {
+        "side": "1",
+        "tracknum": "1",
+        "tracktitle": "Kissing the Lipless",
+        "people": [
+          "James Mercer",
+          "Dave Hernandez",
+          "Jesse Sandoval",
+          "Marty Crandall"
+        ],
+        "duration": "3:19\r"
+      }
+    },
+    {
+      "artist": "The Shins",
+      "albumtitle": "Chutes Too Narrow",
+      "year": "2003",
+      "tracks": {
+        "side": "1",
+        "tracknum": "2",
+        "tracktitle": "Mine's Not a High Horse",
+        "people": [
+          "James Mercer",
+          "Dave Hernandez",
+          "Jesse Sandoval",
+          "Marty Crandall"
+        ],
+        "duration": "3:20\r"
+      }
+    },
+    {
+      "artist": "The Shins",
+      "albumtitle": "Chutes Too Narrow",
+      "year": "2003",
+      "tracks": {
+        "side": "1",
+        "tracknum": "3",
+        "tracktitle": "So Says I",
+        "people": [
+          "James Mercer",
+          "Dave Hernandez",
+          "Jesse Sandoval",
+          "Marty Crandall"
+        ],
+        "duration": "2:48\r"
+      }
+    },
+    {
+      "artist": "The Shins",
+      "albumtitle": "Chutes Too Narrow",
+      "year": "2003",
+      "tracks": {
+        "side": "1",
+        "tracknum": "4",
+        "tracktitle": "Young Pilgrims",
+        "people": [
+          "James Mercer",
+          "Dave Hernandez",
+          "Jesse Sandoval",
+          "Marty Crandall"
+        ],
+        "duration": "2:47\r"
+      }
+    },
+    {
+      "artist": "The Shins",
+      "albumtitle": "Chutes Too Narrow",
+      "year": "2003",
+      "tracks": {
+        "side": "1",
+        "tracknum": "5",
+        "tracktitle": "Saint Simon",
+        "people": [
+          "James Mercer",
+          "Dave Hernandez",
+          "Jesse Sandoval",
+          "Marty Crandall"
+        ],
+        "duration": "4:25\r"
+      }
+    },
+    {
+      "artist": "The Shins",
+      "albumtitle": "Chutes Too Narrow",
+      "year": "2003",
+      "tracks": {
+        "side": "1",
+        "tracknum": "6",
+        "tracktitle": "Fighting in a Sack",
+        "people": [
+          "James Mercer",
+          "Dave Hernandez",
+          "Jesse Sandoval",
+          "Marty Crandall"
+        ],
+        "duration": "2:26\r"
+      }
+    },
+    {
+      "artist": "The Shins",
+      "albumtitle": "Chutes Too Narrow",
+      "year": "2003",
+      "tracks": {
+        "side": "1",
+        "tracknum": "7",
+        "tracktitle": "Pink Bullets",
+        "people": [
+          "James Mercer",
+          "Dave Hernandez",
+          "Jesse Sandoval",
+          "Marty Crandall"
+        ],
+        "duration": "3:53\r"
+      }
+    },
+    {
+      "artist": "The Shins",
+      "albumtitle": "Chutes Too Narrow",
+      "year": "2003",
+      "tracks": {
+        "side": "1",
+        "tracknum": "8",
+        "tracktitle": "Turn a Square",
+        "people": [
+          "James Mercer",
+          "Dave Hernandez",
+          "Jesse Sandoval",
+          "Marty Crandall"
+        ],
+        "duration": "3:11\r"
+      }
+    },
+    {
+      "artist": "The Shins",
+      "albumtitle": "Chutes Too Narrow",
+      "year": "2003",
+      "tracks": {
+        "side": "1",
+        "tracknum": "9",
+        "tracktitle": "Gone for Good",
+        "people": [
+          "James Mercer",
+          "Dave Hernandez",
+          "Jesse Sandoval",
+          "Marty Crandall"
+        ],
+        "duration": "3:13\r"
+      }
+    },
+    {
+      "artist": "The Shins",
+      "albumtitle": "Chutes Too Narrow",
+      "year": "2003",
+      "tracks": {
+        "side": "1",
+        "tracknum": "10",
+        "tracktitle": "Those to Come",
+        "people": [
+          "James Mercer",
+          "Dave Hernandez",
+          "Jesse Sandoval",
+          "Marty Crandall"
+        ],
+        "duration": "4:24"
+      }
+    }
+  ],
+  [
+    {
+      "artist": "Led Zeppelin",
+      "albumtitle": "ii",
+      "year": "1969",
+      "tracks": {
+        "side": "1",
+        "tracknum": "1",
+        "tracktitle": "Whole Lotta Love",
+        "people": [
+          "John Bonham",
+          "Willie Dixon",
+          "John Paul Jones",
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "duration": "5:34:00\r"
+      }
+    },
+    {
+      "artist": "Led Zeppelin",
+      "albumtitle": "ii",
+      "year": "1969",
+      "tracks": {
+        "side": "1",
+        "tracknum": "2",
+        "tracktitle": "What Is and What Should Never Be",
+        "people": [
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "duration": "4:46:00\r"
+      }
+    },
+    {
+      "artist": "Led Zeppelin",
+      "albumtitle": "ii",
+      "year": "1969",
+      "tracks": {
+        "side": "1",
+        "tracknum": "3",
+        "tracktitle": "The Lemon Song",
+        "people": [
+          "John Bonham",
+          "Chester Burnett",
+          "John Paul Jones",
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "duration": "6:19:00\r"
+      }
+    },
+    {
+      "artist": "Led Zeppelin",
+      "albumtitle": "ii",
+      "year": "1969",
+      "tracks": {
+        "side": "1",
+        "tracknum": "4",
+        "tracktitle": "Thank You",
+        "people": [
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "duration": "4:49:00\r"
+      }
+    },
+    {
+      "artist": "Led Zeppelin",
+      "albumtitle": "ii",
+      "year": "1969",
+      "tracks": {
+        "side": "2",
+        "tracknum": "1",
+        "tracktitle": "Heartbreaker",
+        "people": [
+          "John Bonham",
+          "John Paul Jones",
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "duration": "4:14:00\r"
+      }
+    },
+    {
+      "artist": "Led Zeppelin",
+      "albumtitle": "ii",
+      "year": "1969",
+      "tracks": {
+        "side": "2",
+        "tracknum": "2",
+        "tracktitle": "Living Loving Maid (She's Just a Woman)",
+        "people": [
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "duration": "2:39:00\r"
+      }
+    },
+    {
+      "artist": "Led Zeppelin",
+      "albumtitle": "ii",
+      "year": "1969",
+      "tracks": {
+        "side": "2",
+        "tracknum": "3",
+        "tracktitle": "Ramble On",
+        "people": [
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "duration": "4:34:00\r"
+      }
+    },
+    {
+      "artist": "Led Zeppelin",
+      "albumtitle": "ii",
+      "year": "1969",
+      "tracks": {
+        "side": "2",
+        "tracknum": "4",
+        "tracktitle": "Moby Dick",
+        "people": [
+          "John Bonham",
+          "John Paul Jones",
+          "Jimmy Page"
+        ],
+        "duration": "4:20:00\r"
+      }
+    },
+    {
+      "artist": "Led Zeppelin",
+      "albumtitle": "ii",
+      "year": "1969",
+      "tracks": {
+        "side": "2",
+        "tracknum": "5",
+        "tracktitle": "Bring It On Home",
+        "people": [
+          "Willie Dixon"
+        ],
+        "duration": "4:19:00"
+      }
+    }
+  ],
+  [
+    {
+      "artist": "Fleetwood Mac",
+      "albumtitle": "Rumours",
+      "year": "1977",
+      "tracks": {
+        "side": "",
+        "tracknum": "",
+        "tracktitle": "",
+        "people": [],
+        "duration": "\r"
+      }
+    },
+    {
+      "artist": "Fleetwood Mac",
+      "albumtitle": "Rumours",
+      "year": "1977",
+      "tracks": {
+        "side": "",
+        "tracknum": "",
+        "tracktitle": "",
+        "people": [],
+        "duration": "\r"
+      }
+    },
+    {
+      "artist": "Fleetwood Mac",
+      "albumtitle": "Rumours",
+      "year": "1977",
+      "tracks": {
+        "side": "1",
+        "tracknum": "1",
+        "tracktitle": "Second Hand News",
+        "people": [
+          "Lindsey Buckingham"
+        ],
+        "duration": "2:56:00\r"
+      }
+    },
+    {
+      "artist": "Fleetwood Mac",
+      "albumtitle": "Rumours",
+      "year": "1977",
+      "tracks": {
+        "side": "1",
+        "tracknum": "2",
+        "tracktitle": "Dreams",
+        "people": [
+          "Stevie Nicks"
+        ],
+        "duration": "4:14:00\r"
+      }
+    },
+    {
+      "artist": "Fleetwood Mac",
+      "albumtitle": "Rumours",
+      "year": "1977",
+      "tracks": {
+        "side": "1",
+        "tracknum": "3",
+        "tracktitle": "Never Going Back Again",
+        "people": [
+          "Lindsey Buckingham"
+        ],
+        "duration": "2:14:00\r"
+      }
+    },
+    {
+      "artist": "Fleetwood Mac",
+      "albumtitle": "Rumours",
+      "year": "1977",
+      "tracks": {
+        "side": "1",
+        "tracknum": "4",
+        "tracktitle": "Don't Stop",
+        "people": [
+          "Christine McVie",
+          "Lindsey Buckingham"
+        ],
+        "duration": "3:13:00\r"
+      }
+    },
+    {
+      "artist": "Fleetwood Mac",
+      "albumtitle": "Rumours",
+      "year": "1977",
+      "tracks": {
+        "side": "1",
+        "tracknum": "5",
+        "tracktitle": "Go Your Own Way",
+        "people": [
+          "Lindsey Buckingham"
+        ],
+        "duration": "3:38:00\r"
+      }
+    },
+    {
+      "artist": "Fleetwood Mac",
+      "albumtitle": "Rumours",
+      "year": "1977",
+      "tracks": {
+        "side": "1",
+        "tracknum": "6",
+        "tracktitle": "Songbird",
+        "people": [
+          "Christine McVie"
+        ],
+        "duration": "3:20:00\r"
+      }
+    },
+    {
+      "artist": "Fleetwood Mac",
+      "albumtitle": "Rumours",
+      "year": "1977",
+      "tracks": {
+        "side": "2",
+        "tracknum": "1",
+        "tracktitle": "The Chain",
+        "people": [
+          "Lindsey Buckingham",
+          "Mick Fleetwood",
+          "Christine McVie",
+          "John McVie",
+          "Stevie Nicks"
+        ],
+        "duration": "4:30:00\r"
+      }
+    },
+    {
+      "artist": "Fleetwood Mac",
+      "albumtitle": "Rumours",
+      "year": "1977",
+      "tracks": {
+        "side": "2",
+        "tracknum": "2",
+        "tracktitle": "You Make Loving Fun",
+        "people": [
+          "Christine McVie"
+        ],
+        "duration": "3:31:00\r"
+      }
+    },
+    {
+      "artist": "Fleetwood Mac",
+      "albumtitle": "Rumours",
+      "year": "1977",
+      "tracks": {
+        "side": "2",
+        "tracknum": "3",
+        "tracktitle": "I Don't Want to Know",
+        "people": [
+          "Stevie Stevie Nicks",
+          "Lindsey Buckingham"
+        ],
+        "duration": "3:15:00\r"
+      }
+    },
+    {
+      "artist": "Fleetwood Mac",
+      "albumtitle": "Rumours",
+      "year": "1977",
+      "tracks": {
+        "side": "2",
+        "tracknum": "4",
+        "tracktitle": "Oh Daddy",
+        "people": [
+          "Christine McVie"
+        ],
+        "duration": "3:56:00\r"
+      }
+    },
+    {
+      "artist": "Fleetwood Mac",
+      "albumtitle": "Rumours",
+      "year": "1977",
+      "tracks": {
+        "side": "2",
+        "tracknum": "5",
+        "tracktitle": "Gold Dust Woman",
+        "people": [
+          "Stevie Nicks"
+        ],
+        "duration": "4:56:00"
+      }
+    }
+  ]
+]

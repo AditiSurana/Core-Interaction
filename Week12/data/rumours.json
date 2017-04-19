@@ -1,0 +1,186 @@
+[
+  {
+    "artist": "Fleetwood Mac",
+    "albumtitle": "Rumours",
+    "year": "1977",
+    "tracks": {
+      "side": "",
+      "tracknum": "",
+      "tracktitle": "",
+      "people": [],
+      "duration": "\r"
+    }
+  },
+  {
+    "artist": "Fleetwood Mac",
+    "albumtitle": "Rumours",
+    "year": "1977",
+    "tracks": {
+      "side": "",
+      "tracknum": "",
+      "tracktitle": "",
+      "people": [],
+      "duration": "\r"
+    }
+  },
+  {
+    "artist": "Fleetwood Mac",
+    "albumtitle": "Rumours",
+    "year": "1977",
+    "tracks": {
+      "side": "1",
+      "tracknum": "1",
+      "tracktitle": "Second Hand News",
+      "people": [
+        "Lindsey Buckingham"
+      ],
+      "duration": "2:56:00\r"
+    }
+  },
+  {
+    "artist": "Fleetwood Mac",
+    "albumtitle": "Rumours",
+    "year": "1977",
+    "tracks": {
+      "side": "1",
+      "tracknum": "2",
+      "tracktitle": "Dreams",
+      "people": [
+        "Stevie Nicks"
+      ],
+      "duration": "4:14:00\r"
+    }
+  },
+  {
+    "artist": "Fleetwood Mac",
+    "albumtitle": "Rumours",
+    "year": "1977",
+    "tracks": {
+      "side": "1",
+      "tracknum": "3",
+      "tracktitle": "Never Going Back Again",
+      "people": [
+        "Lindsey Buckingham"
+      ],
+      "duration": "2:14:00\r"
+    }
+  },
+  {
+    "artist": "Fleetwood Mac",
+    "albumtitle": "Rumours",
+    "year": "1977",
+    "tracks": {
+      "side": "1",
+      "tracknum": "4",
+      "tracktitle": "Don't Stop",
+      "people": [
+        "Christine McVie",
+        "Lindsey Buckingham"
+      ],
+      "duration": "3:13:00\r"
+    }
+  },
+  {
+    "artist": "Fleetwood Mac",
+    "albumtitle": "Rumours",
+    "year": "1977",
+    "tracks": {
+      "side": "1",
+      "tracknum": "5",
+      "tracktitle": "Go Your Own Way",
+      "people": [
+        "Lindsey Buckingham"
+      ],
+      "duration": "3:38:00\r"
+    }
+  },
+  {
+    "artist": "Fleetwood Mac",
+    "albumtitle": "Rumours",
+    "year": "1977",
+    "tracks": {
+      "side": "1",
+      "tracknum": "6",
+      "tracktitle": "Songbird",
+      "people": [
+        "Christine McVie"
+      ],
+      "duration": "3:20:00\r"
+    }
+  },
+  {
+    "artist": "Fleetwood Mac",
+    "albumtitle": "Rumours",
+    "year": "1977",
+    "tracks": {
+      "side": "2",
+      "tracknum": "1",
+      "tracktitle": "The Chain",
+      "people": [
+        "Lindsey Buckingham",
+        "Mick Fleetwood",
+        "Christine McVie",
+        "John McVie",
+        "Stevie Nicks"
+      ],
+      "duration": "4:30:00\r"
+    }
+  },
+  {
+    "artist": "Fleetwood Mac",
+    "albumtitle": "Rumours",
+    "year": "1977",
+    "tracks": {
+      "side": "2",
+      "tracknum": "2",
+      "tracktitle": "You Make Loving Fun",
+      "people": [
+        "Christine McVie"
+      ],
+      "duration": "3:31:00\r"
+    }
+  },
+  {
+    "artist": "Fleetwood Mac",
+    "albumtitle": "Rumours",
+    "year": "1977",
+    "tracks": {
+      "side": "2",
+      "tracknum": "3",
+      "tracktitle": "I Don't Want to Know",
+      "people": [
+        "Stevie Stevie Nicks",
+        "Lindsey Buckingham"
+      ],
+      "duration": "3:15:00\r"
+    }
+  },
+  {
+    "artist": "Fleetwood Mac",
+    "albumtitle": "Rumours",
+    "year": "1977",
+    "tracks": {
+      "side": "2",
+      "tracknum": "4",
+      "tracktitle": "Oh Daddy",
+      "people": [
+        "Christine McVie"
+      ],
+      "duration": "3:56:00\r"
+    }
+  },
+  {
+    "artist": "Fleetwood Mac",
+    "albumtitle": "Rumours",
+    "year": "1977",
+    "tracks": {
+      "side": "2",
+      "tracknum": "5",
+      "tracktitle": "Gold Dust Woman",
+      "people": [
+        "Stevie Nicks"
+      ],
+      "duration": "4:56:00"
+    }
+  }
+]

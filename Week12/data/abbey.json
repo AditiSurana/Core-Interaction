@@ -1,0 +1,247 @@
+[
+  {
+    "artist": "The Beatles",
+    "albumtitle": "Abbey Road",
+    "year": "1969",
+    "tracks": {
+      "side": "1",
+      "tracknum": "1",
+      "tracktitle": "Come Together",
+      "people": [
+        "John Lennon"
+      ],
+      "duration": "4:20\r"
+    }
+  },
+  {
+    "artist": "The Beatles",
+    "albumtitle": "Abbey Road",
+    "year": "1969",
+    "tracks": {
+      "side": "1",
+      "tracknum": "2",
+      "tracktitle": "Something (George Harrison)",
+      "people": [
+        "George Harrison"
+      ],
+      "duration": "3:03\r"
+    }
+  },
+  {
+    "artist": "The Beatles",
+    "albumtitle": "Abbey Road",
+    "year": "1969",
+    "tracks": {
+      "side": "1",
+      "tracknum": "3",
+      "tracktitle": "Maxwell's Silver Hammer",
+      "people": [
+        "Paul McCartney"
+      ],
+      "duration": "3:27\r"
+    }
+  },
+  {
+    "artist": "The Beatles",
+    "albumtitle": "Abbey Road",
+    "year": "1969",
+    "tracks": {
+      "side": "1",
+      "tracknum": "4",
+      "tracktitle": "Oh! Darling",
+      "people": [
+        "Paul McCartney"
+      ],
+      "duration": "3:26\r"
+    }
+  },
+  {
+    "artist": "The Beatles",
+    "albumtitle": "Abbey Road",
+    "year": "1969",
+    "tracks": {
+      "side": "1",
+      "tracknum": "5",
+      "tracktitle": "Octopus's Garden (Richard Starkey)",
+      "people": [
+        "Ringo Starr"
+      ],
+      "duration": "2:51\r"
+    }
+  },
+  {
+    "artist": "The Beatles",
+    "albumtitle": "Abbey Road",
+    "year": "1969",
+    "tracks": {
+      "side": "1",
+      "tracknum": "6",
+      "tracktitle": "I Want You (She's So Heavy)",
+      "people": [
+        "John Lennon"
+      ],
+      "duration": "7:47\r"
+    }
+  },
+  {
+    "artist": "The Beatles",
+    "albumtitle": "Abbey Road",
+    "year": "1969",
+    "tracks": {
+      "side": "2",
+      "tracknum": "1",
+      "tracktitle": "Here Comes the Sun (George Harrison)",
+      "people": [
+        "George Harrison"
+      ],
+      "duration": "3:05\r"
+    }
+  },
+  {
+    "artist": "The Beatles",
+    "albumtitle": "Abbey Road",
+    "year": "1969",
+    "tracks": {
+      "side": "2",
+      "tracknum": "2",
+      "tracktitle": "Because",
+      "people": [
+        "John Lennon",
+        "Paul McCartney",
+        "George Harrison"
+      ],
+      "duration": "2:45\r"
+    }
+  },
+  {
+    "artist": "The Beatles",
+    "albumtitle": "Abbey Road",
+    "year": "1969",
+    "tracks": {
+      "side": "2",
+      "tracknum": "3",
+      "tracktitle": "You Never Give Me Your Money",
+      "people": [
+        "Paul McCartney"
+      ],
+      "duration": "4:02\r"
+    }
+  },
+  {
+    "artist": "The Beatles",
+    "albumtitle": "Abbey Road",
+    "year": "1969",
+    "tracks": {
+      "side": "2",
+      "tracknum": "4",
+      "tracktitle": "Sun King",
+      "people": [
+        "John Lennon",
+        "Paul McCartney",
+        "George Harrison"
+      ],
+      "duration": "2:26\r"
+    }
+  },
+  {
+    "artist": "The Beatles",
+    "albumtitle": "Abbey Road",
+    "year": "1969",
+    "tracks": {
+      "side": "2",
+      "tracknum": "5",
+      "tracktitle": "Mean Mr. Mustard",
+      "people": [
+        "John Lennon"
+      ],
+      "duration": "1:06\r"
+    }
+  },
+  {
+    "artist": "The Beatles",
+    "albumtitle": "Abbey Road",
+    "year": "1969",
+    "tracks": {
+      "side": "2",
+      "tracknum": "6",
+      "tracktitle": "Polythene Pam",
+      "people": [
+        "John Lennon"
+      ],
+      "duration": "1:12\r"
+    }
+  },
+  {
+    "artist": "The Beatles",
+    "albumtitle": "Abbey Road",
+    "year": "1969",
+    "tracks": {
+      "side": "2",
+      "tracknum": "7",
+      "tracktitle": "She Came in Through the Bathroom Window",
+      "people": [
+        "Paul McCartney"
+      ],
+      "duration": "1:57\r"
+    }
+  },
+  {
+    "artist": "The Beatles",
+    "albumtitle": "Abbey Road",
+    "year": "1969",
+    "tracks": {
+      "side": "2",
+      "tracknum": "8",
+      "tracktitle": "Golden Slumbers",
+      "people": [
+        "Paul McCartney"
+      ],
+      "duration": "1:31\r"
+    }
+  },
+  {
+    "artist": "The Beatles",
+    "albumtitle": "Abbey Road",
+    "year": "1969",
+    "tracks": {
+      "side": "2",
+      "tracknum": "9",
+      "tracktitle": "Carry That Weight",
+      "people": [
+        "Paul McCartney",
+        "John Lennon",
+        "George Harrison",
+        "Ringo Starr"
+      ],
+      "duration": "1:36\r"
+    }
+  },
+  {
+    "artist": "The Beatles",
+    "albumtitle": "Abbey Road",
+    "year": "1969",
+    "tracks": {
+      "side": "2",
+      "tracknum": "10",
+      "tracktitle": "The End",
+      "people": [
+        "Paul McCartney"
+      ],
+      "duration": "2:05\r"
+    }
+  },
+  {
+    "artist": "The Beatles",
+    "albumtitle": "Abbey Road",
+    "year": "1969",
+    "tracks": {
+      "side": "2",
+      "tracknum": "11",
+      "tracktitle": "Her Majesty",
+      "people": [
+        "Paul McCartney"
+      ],
+      "duration": "0:23"
+    }
+  }
+]
